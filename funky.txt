@@ -3,4 +3,4 @@ This is funky! And so is this! BLA BLA
 
 Z is cool
 
-A is very cool
+A is very cool. =>A and Z are super cool
